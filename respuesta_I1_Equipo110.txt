@@ -1,3 +1,7 @@
 Alfa: Méndez Luca
 Beta: Acosta Matías 
 Gamma: Cugliari Pablo Alberto
+
+Alfa: 
+a-Si, alfa ve los cambios que realizaron en el repositorio remoto.
+b- Solo lo pueden ver si alfa realiza el push de los cambios.
