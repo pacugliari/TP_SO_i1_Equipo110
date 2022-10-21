@@ -5,7 +5,12 @@ Gamma: Cugliari Pablo Alberto
 Alfa: 
 a-Si, alfa ve los cambios que realizaron en el repositorio remoto.
 b- Solo lo pueden ver si alfa realiza el push de los cambios.
+
 Beta:
 c-Solo si beta realiza un push.
 d-Discord y whatsapp.
+
+Gamma:
+e-Asignacion de tareas por medio del PROJECTS de GitHub, ya que se se pueden definir tareas,
+indicar cuales estan completas o no.
 
